@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a href='https://github.com/Mrjacint'>
+  <img align='left' width='45%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Mrjacint&theme=merko&layout=compact'>
+</a>
+<a href='https://github.com/Mrjacint'>
+  <img align='right' width='45%' src='https://github-readme-stats.vercel.app/api?username=Mrjacint&theme=merko&show_icons=true'>
+</a>
+
 <!--
 **Mrjacint/Mrjacint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
