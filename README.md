@@ -11,10 +11,13 @@
 </a>
 
 ---
-
+<span>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mrjacint&repo=jacint-portfolio)](https://github.com/Mrjacint/jacint-portfolio)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mrjacint&repo=kanban-board)](https://github.com/Mrjacint/kanban-board)
+</span>
+
+
 <!--
 **Mrjacint/Mrjacint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
