@@ -10,6 +10,8 @@
   <img align='right' width='45%' src='https://github-readme-stats.vercel.app/api?username=Mrjacint&theme=merko&show_icons=true&count_private=true'>
 </a>
 
+---
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mrjacint&repo=jacint-portfolio)](https://github.com/Mrjacint/jacint-portfolio)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mrjacint&repo=kanban-board)](https://github.com/Mrjacint/kanban-board)
