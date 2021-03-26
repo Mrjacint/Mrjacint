@@ -1,32 +1,50 @@
-# Hi there 👋
+<p align='center'>
+<img src='Header.png'>
+</p>
 
-My name is Jacint! I am a front-end developer from London, Uk.
+<!-- # Hi there 👋 -->
 
-- 🔭 I’m currently working on to edit this file
+<p>
+Hi, my name is Jacint! I am a front-end developer from London, Uk.
 
-## Check out my stats
+- 🌱 I’m currently learning React, Redux
+- 🤔 I’m looking for help with finding a job in web development
+- 💬 Ask me about anything
+</p>
+
+---
+
+<!-- ## Check out my stats -->
+<h1 align='center'>Check out my stats</h1>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<p>
-<a href='https://github.com/Mrjacint'>
-<img width='48%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Mrjacint&theme=merko&layout=compact'>
-</a>
+<p align='center'>
+    <a href='https://github.com/Mrjacint'>
+        <img width='48%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Mrjacint&theme=algolia&layout=compact'>
+    </a>
+</p>
+<p align='center'>
+    <a href='https://github.com/Mrjacint'>
+        <img width='48%' src='https://github-readme-stats.vercel.app/api?username=Mrjacint&theme=algolia&show_icons=true&count_private=true'>
+    </a>
+</p>
 
-<a href='https://github.com/Mrjacint'>
-<img width='48%' src='https://github-readme-stats.vercel.app/api?username=Mrjacint&theme=merko&show_icons=true&count_private=true'>
-</a>
-</p>
+<!-- ## Projects I Think Are Worth Checking Out! -->
+<h1 align='center'>Projects I Think Are Worth Checking Out!</h1>
+
+<br/>
+
 <!-- --- -->
-<p>
+<p align='center'>
     <a href='https://github.com/Mrjacint/jacint-portfolio'>
-    <img width='48%' src='https://github-readme-stats.vercel.app/api/pin/?username=Mrjacint&repo=jacint-portfolio' />
-    </a>
-    <a href='https://github.com/Mrjacint/jacint-portfolio'>
-    <img width='48%' src='https://github-readme-stats.vercel.app/api/pin/?username=Mrjacint&repo=kanban-board' />
+        <img width='48%' src='https://github-readme-stats.vercel.app/api/pin/?username=Mrjacint&repo=jacint-portfolio&theme=algolia' />
     </a>
 </p>
-<!-- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mrjacint&repo=jacint-portfolio)](https://github.com/Mrjacint/jacint-portfolio) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mrjacint&repo=kanban-board)](https://github.com/Mrjacint/kanban-board) -->
+<p align='center'>
+    <a href='https://github.com/Mrjacint/jacint-portfolio'>
+        <img width='48%' src='https://github-readme-stats.vercel.app/api/pin/?username=Mrjacint&repo=kanban-board&theme=algolia' />
+    </a>
+</p>
 
 <!--
 **Mrjacint/Mrjacint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
