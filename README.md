@@ -21,7 +21,7 @@ My name is Jacint! I am a front-end developer from London, Uk.
     <a href='https://github.com/Mrjacint/jacint-portfolio'>
     <img width='48%' src='https://github-readme-stats.vercel.app/api/pin/?username=Mrjacint&repo=jacint-portfolio' />
     </a>
-    <a href='https://github.com/Mrjacint/jacint-portfolio'>
+    <a href='https://github.com/Mrjacint/kanban-board'>
     <img width='48%' src='https://github-readme-stats.vercel.app/api/pin/?username=Mrjacint&repo=kanban-board' />
     </a>
 </p>
