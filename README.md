@@ -7,7 +7,7 @@
 <p>
 Hi, my name is Jacint! I am a front-end developer from London, Uk.
 
-- 🌱 I’m currently learning React, Redux
+- 🌱 I’m currently learning React.js, Next.js, Styled Components, TypeScript
 - 🤔 I’m looking for help with finding a job in web development
 - 💬 Ask me about anything
 </p>
